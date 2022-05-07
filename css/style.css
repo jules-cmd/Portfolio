@@ -42,18 +42,18 @@ h1,h2,h3,h4{
     --z-modal: 1000;
 
         /*========== COLORS ==========*/
-    --first-color: rgb(30, 24, 83);
+    --first-color: rgb(98, 89, 187);
     --first-color-alt: rgb(30, 24, 83);
-    --first-color-lighter: rgb(233, 177, 194);
+    --first-color-lighter: rgb(68, 134, 200);
     --title-color: rgb(68, 134, 200);
-    --text-color: rgb(0, 0, 0);
+    --text-color: #FFF;
     --text-color-light: rgb(130, 139, 148);
     --input-color: rgb(240, 238, 252);
-    --body-color: rgb(225, 225, 236);
+    --body-color: rgb(33, 36, 40);
     --scrollbar: rgb(30, 24, 83);
     --scrollbar-thumb: rgb(30, 24, 83);
     --container-color: #fff;
-    --shadow-1: 10px 10px 19px rgb(211, 211, 221), -10px -10px 19px rgb(210, 210, 223);
+    --shadow-1: 10px 10px 19px rgb(5, 5, 5), -10px -10px 19px rgb(0, 0, 0);
     --shadow-2: inset 21px 21px 19px #181a1d, inset -21px -21px 19px #202225;
     --background-color-1: linear-gradient(145deg, rgb(225, 225, 236), rgb(225, 225, 236));
     --background-color-2: #212428;
