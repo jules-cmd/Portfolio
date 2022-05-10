@@ -230,6 +230,7 @@ section:nth-of-type(2) article{
  /*Bouton*/
 section:nth-of-type(2) article button{
     display: block;
+    color: #fff;
     line-height: 4.5rem;
     width: 20rem;
     text-transform: uppercase;
