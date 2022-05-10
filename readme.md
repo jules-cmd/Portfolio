@@ -5,4 +5,4 @@ Mijon Jules , étudiant SIO Slam 1 Itic Paris
 [voir la page web](https://jules-cmd.github.io/Portfolio/)
 
 # charte graphique :
-![Palette](/asset/palette.png) 
+![Palette](/asset/palette_couleur.png) 
